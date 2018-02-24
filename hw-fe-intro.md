@@ -18,7 +18,7 @@
 Необходимо разобраться в реализации портрета и механизма кастомизации (цвет глаз и волос).
 
 ### PR-002 Promises
-**PR-002.1** Необходимо разобраться в реализации асинхронной операции на основе промисов ((`PersonService.loadByIdPromise`)[https://github.com/ikit-mita/2018-frontend-lessons/blob/1-Intro/1-Intro/wwwroot/modules/services/person-service.js#L44]).
+**PR-002.1** Необходимо разобраться в реализации асинхронной операции на основе промисов ([`PersonService.loadByIdPromise`](https://github.com/ikit-mita/2018-frontend-lessons/blob/1-Intro/1-Intro/wwwroot/modules/services/person-service.js#L44)).
 
 **PR-002.2** Методы `loadByIdSync` и `loadByIdCallback` необходимо убрать из кода.
 
